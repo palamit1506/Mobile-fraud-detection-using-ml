@@ -1,4 +1,5 @@
- Mobile Payment Fraud Detection
+# Mobile Payment Fraud Detection
+
 🔍 Overview
 This project focuses on detecting fraudulent mobile payment transactions using machine learning. Leveraging a publicly available dataset, the goal is to identify suspicious activities that deviate from typical user behavior and reduce financial risks in digital payment ecosystems.
 
